@@ -6,4 +6,4 @@ RUN apt-get update; \
     apt-get clean
 
 RUN pip3 install --upgrade pip; \
-    pip3 install "ansible==2.9.13"
+    pip3 install "ansible==2.9.12"
